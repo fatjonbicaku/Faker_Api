@@ -1,1 +1,1 @@
-FAker API using exxpress and fake data
+Faker API using exxpress and fake data
